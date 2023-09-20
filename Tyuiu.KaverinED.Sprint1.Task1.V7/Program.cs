@@ -13,7 +13,6 @@ namespace Tyuiu.KaverinED.Sprint1.Task1.V7
             double x;
             double y;
             DataService ds = new DataService();
-
             Console.Title = "Спринт #1 | Выполнил: Каверин Е. Д. | ИИПб-23-3";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");

@@ -29,11 +29,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KaverinED.Sprint1.Tas
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{AA1700BF-83AF-4048-9326-18319B6D4DC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KaverinED.Sprint1.Task3.V18", "Tyuiu.KaverinED.Sprint1\Task3\Tyuiu.KaverinED.Sprint1.Task3.V18\Tyuiu.KaverinED.Sprint1.Task3.V18.csproj", "{E23C4E66-D5E4-4DA4-A655-3994280B5574}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KaverinED.Sprint1.Task3.V18", "Tyuiu.KaverinED.Sprint1.Task3.V18\Tyuiu.KaverinED.Sprint1.Task3.V18.csproj", "{E23C4E66-D5E4-4DA4-A655-3994280B5574}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KaverinED.Sprint1.Task3.V18.Lib", "Tyuiu.KaverinED.Sprint1\Task3\Tyuiu.KaverinED.Sprint1.Task3.V18.Lib\Tyuiu.KaverinED.Sprint1.Task3.V18.Lib.csproj", "{D7788D1D-CA65-4738-B522-FC23CFB6E4E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KaverinED.Sprint1.Task3.V18.Lib", "Tyuiu.KaverinED.Sprint1.Task3.V18.Lib\Tyuiu.KaverinED.Sprint1.Task3.V18.Lib.csproj", "{D7788D1D-CA65-4738-B522-FC23CFB6E4E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KaverinED.Sprint1.Task3.V18.Test", "Tyuiu.KaverinED.Sprint1\Task3\Tyuiu.KaverinED.Sprint1.Task3.V18.Test\Tyuiu.KaverinED.Sprint1.Task3.V18.Test.csproj", "{BB4291E3-94D6-4A86-B22E-9BD8336589E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KaverinED.Sprint1.Task3.V18.Test", "Tyuiu.KaverinED.Sprint1.Task3.V18.Test\Tyuiu.KaverinED.Sprint1.Task3.V18.Test.csproj", "{BB4291E3-94D6-4A86-B22E-9BD8336589E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
