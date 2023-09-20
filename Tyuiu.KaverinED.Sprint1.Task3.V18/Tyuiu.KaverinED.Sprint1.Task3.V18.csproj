@@ -50,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.KaverinED.Sprint1.Task2.V18.Lib\Tyuiu.KaverinED.Sprint1.Task3.V18.Lib.csproj">
+    <ProjectReference Include="..\Tyuiu.KaverinED.Sprint1.Task3.V18.Lib\Tyuiu.KaverinED.Sprint1.Task3.V18.Lib.csproj">
       <Project>{d7788d1d-ca65-4738-b522-fc23cfb6e4e4}</Project>
       <Name>Tyuiu.KaverinED.Sprint1.Task3.V18.Lib</Name>
     </ProjectReference>
