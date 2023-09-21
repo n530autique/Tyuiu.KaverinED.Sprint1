@@ -11,7 +11,7 @@ namespace Tyuiu.KaverinED.Sprint1.Task2.V23.Test
         {
             DataService ds = new DataService();
             int x = 2;
-            int res = x * 60;
+            int res = ds.ConvertMinutesToSeconds(x);
             Assert.AreEqual(res, 120);
         }
     }
