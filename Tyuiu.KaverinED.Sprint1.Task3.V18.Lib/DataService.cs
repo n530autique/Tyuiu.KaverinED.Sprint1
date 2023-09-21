@@ -10,7 +10,8 @@ namespace Tyuiu.KaverinED.Sprint1.Task3.V18.Lib
     {
         public double HowManySquares(double a, double b, double c)
         {
-            return (a / c) * (b / c);
+            int x = Convert.ToInt32(Math.Floor(a / c)), y = Convert.ToInt32(Math.Floor(b / c));
+            return x * y;
         }
     }
 }
