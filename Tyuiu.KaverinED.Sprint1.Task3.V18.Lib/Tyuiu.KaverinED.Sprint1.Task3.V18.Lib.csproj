@@ -7,8 +7,8 @@
     <ProjectGuid>{D7788D1D-CA65-4738-B522-FC23CFB6E4E4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.KaverinED.Sprint1.Task2.V18.Lib</RootNamespace>
-    <AssemblyName>Tyuiu.KaverinED.Sprint1.Task2.V18.Lib</AssemblyName>
+    <RootNamespace>Tyuiu.KaverinED.Sprint1.Task3.V18.Lib</RootNamespace>
+    <AssemblyName>Tyuiu.KaverinED.Sprint1.Task3.V18.Lib</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
