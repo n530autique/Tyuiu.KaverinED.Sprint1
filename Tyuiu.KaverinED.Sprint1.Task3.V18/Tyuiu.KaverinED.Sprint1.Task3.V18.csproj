@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{E23C4E66-D5E4-4DA4-A655-3994280B5574}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tyuiu.KaverinED.Sprint1.Task2.V18</RootNamespace>
-    <AssemblyName>Tyuiu.KaverinED.Sprint1.Task2.V18</AssemblyName>
+    <RootNamespace>Tyuiu.KaverinED.Sprint1.Task3.V18</RootNamespace>
+    <AssemblyName>Tyuiu.KaverinED.Sprint1.Task3.V18</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
