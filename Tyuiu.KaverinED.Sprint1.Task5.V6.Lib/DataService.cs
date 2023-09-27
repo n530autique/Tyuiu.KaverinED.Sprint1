@@ -10,15 +10,7 @@ namespace Tyuiu.KaverinED.Sprint1.Task5.V6.Lib
     {
         public int Calculate(int k)
         {
-            if (k <= 7)
-            {
-                return k;
-            }
-            if (k % 7 == 0)
-            {
-                return 7;
-            }
-            return (k % 7);
+            return (k - 1) % 7 + 1;
         }
     }
 }
