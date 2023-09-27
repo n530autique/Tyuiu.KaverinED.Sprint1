@@ -14,6 +14,10 @@ namespace Tyuiu.KaverinED.Sprint1.Task5.V6.Lib
             {
                 return k;
             }
+            if (k % 7 == 0)
+            {
+                return 7;
+            }
             return (k % 7);
         }
     }
